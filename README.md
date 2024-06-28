@@ -82,5 +82,10 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Result Video 
 
-[Watch the video](https://github.com/pranjals26/Creating-Blog-Content-with-Serverless-Generative-AI-Using-AWS-Bedrock/blob/main/GEN%20AI%20AWS%20BEDROCK.mp4)
+<div align="center">
+  <video width="720" height="405" controls>
+    <source src="https://github.com/pranjals26/Creating-Blog-Content-with-Serverless-Generative-AI-Using-AWS-Bedrock/blob/main/GEN%20AI%20AWS%20BEDROCK.mp4" type="video/mp4">
+  </video>
+</div>
+
 
