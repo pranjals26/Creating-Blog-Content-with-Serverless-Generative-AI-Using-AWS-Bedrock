@@ -80,4 +80,7 @@ This project showcases a comprehensive guide to building a serverless Generative
 
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
 
+## Result Video 
+
+[Watch the video](https://github.com/pranjals26/Creating-Blog-Content-with-Serverless-Generative-AI-Using-AWS-Bedrock/blob/main/GEN%20AI%20AWS%20BEDROCK.mp4)
 
